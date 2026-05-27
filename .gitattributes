@@ -1,0 +1,16 @@
+# Default
+*                   text=auto
+
+# Scripts
+*.sql               text
+
+# Binaries
+*.pdf               binary
+*.webp              binary
+
+# Configuration
+.gitattributes      text
+.gitignore          text
+
+# Documentation
+*.md                text diff=markdown
