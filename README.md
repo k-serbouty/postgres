@@ -25,7 +25,7 @@
 
 ## Roadmap
 
-- [ ] Chapter 1: Getting Started
+- [x] Chapter 1: Getting Started
 - [ ] Chapter 2: The SQL Language
 - [ ] Chapter 3: Advanced Features
 - [ ] Chapter 4: SQL Syntax
