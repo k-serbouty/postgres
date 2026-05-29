@@ -21,7 +21,7 @@
 
 ## Resources
 
-- [PostgreSQL 18.4 Documentation - PostgreSQL](./docs/postgresql-18-us.pdf)
+- [PostgreSQL 18.4 Documentation – PostgreSQL](./docs/postgresql-18-us.pdf)
 
 ## Roadmap
 
